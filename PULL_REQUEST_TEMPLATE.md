@@ -11,6 +11,8 @@ _What's the context for the changes? Does the PR reference any open issues?_
 - [ ] Does the feature / fix work when you run it locally?
 - [ ] Does it look good in light mode?
 - [ ] Does it look good in dark mode?
+- [ ] Does the app build successfully with `npx next build`
+- [ ] Have you verified that `npx next lint` doesn't introduce errors
 
 **Tested against**
 
