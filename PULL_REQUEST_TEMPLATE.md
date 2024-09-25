@@ -24,3 +24,5 @@ _If the feature requires user input, which profiles/dates/inputs have you tested
 ### 📸 Screenshots (optional)
 
 If you made UI changes, what are the before and afters?
+
+>>> Don't forget to complete the metadata >>>
